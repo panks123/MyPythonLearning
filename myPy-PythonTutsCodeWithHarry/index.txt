@@ -1,0 +1,70 @@
+
+1.py---Hello World
+2.py---print statement
+3.py---variables and typecasting
+4.py---Strings(Immutable)
+5.py---lists(mutable) and tuples(immutable)
+6.py---dictionary:{key:value}
+7.py---sets
+8.py---if-elif-else
+9.py---for loop
+10.py---While loop
+11.py---break and continue
+12.py---Short hand if-else
+13.py---Functions and docstring
+14.py---try-except
+15.py---File IO basics
+16.py---writing and appending in a file
+17.py---tell() and seek() in files
+18.py---with block to open file
+19.py---excercise 5
+20.py---Global varibles and nested functions
+21.py---Lambdaa functions or anonymous functions
+22.py---Using built in modules
+23.py---string formatting and f-strings
+24.py---*args and **kwargs
+25.py---time module
+26.py---import
+27.py---if __name__== '__main__'
+28.py---join function
+29.py---map, filter and reduce functions
+30.py---More on Functions And Decorators in Python
+31.py---OOPS 1 creating first class
+32.py---oops 2 - Instance variable and class variable
+33.py---oops3-- class methods
+34.py---OOps---Constructors
+35.py---oops---class methods
+36.py---oops--- class methods as constructors
+37.py---oops---static methods
+38.py---oops---Abstraction and encapsulation
+39.py---oops---Single inheritance
+40.py---oops---Multiple inheritance
+41.py---oops---Multilevel inheritance
+42.py---oops---Access specifiers(public,private,protected)
+43.py---super() and overriding in classes
+44.py---oops---multiple inheritance -Diamond shape problem
+45.py---oops---Operator overloading and dunder methods
+46.py---oops---Abstract base class and abstract method
+47.py---setters and property decorators
+48.py---oops---object introspection
+49.py---Generators
+50.py---comprehensions
+51.py---else with for loop
+52.py---Function caching
+53.py---else and finally in try except
+54.py---os module
+55.py---requests module
+56.py---json module
+57.py---pickle module
+58.py---pickle module---dumps and loads
+59.py---regular expressions
+60.py---regular expressions
+61.py---raise keyword---- raising an exception explicitly
+62.py---differince between is and ==
+63.py---zip() and sorted() functions
+
+check_internet.py----checking is there internet connection available or not
+audio.py---generating variable range frequency sound using winsound module
+audio1.py---playing musinc using pygame module
+
+

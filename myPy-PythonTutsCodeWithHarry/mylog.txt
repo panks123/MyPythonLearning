@@ -1,0 +1,24 @@
+Drank water at : 2020-07-10 17:33:01.699301
+Eyes relaxed at : 2020-07-10 17:33:07.042028
+Eyes relaxed at : 2020-07-10 17:33:15.548903
+Physical activity done at : 2020-07-10 17:33:19.448537
+Eyes relaxed at : 2020-07-10 17:33:24.102088
+Physical activity done at : 2020-07-10 17:33:27.489270
+Eyes relaxed at : 2020-07-10 17:33:35.403484
+Physical activity done at : 2020-07-10 17:33:39.602353
+Eyes relaxed at : 2020-07-10 17:33:44.520429
+Drank water at : 2020-07-10 17:35:46.512090
+Eyes relaxed at : 2020-07-10 17:35:49.625813
+Drank water at : 2020-07-10 17:35:54.482399
+Physical activity done at : 2020-07-10 17:35:57.287123
+Drank water at : 2020-07-10 17:36:02.178213
+Eyes relaxed at : 2020-07-10 17:36:07.814711
+Drank water at : 2020-07-10 17:36:10.473987
+Drank water at : 2020-07-10 17:36:20.084585
+Eyes relaxed at : 2020-07-10 17:36:22.749644
+Physical activity done at : 2020-07-10 17:36:25.312892
+Drank water at : 2020-07-10 17:36:27.705272
+Drank water at : 2020-07-10 17:36:35.745293
+Eyes relaxed at : 2020-07-10 17:36:39.508651
+Drank water at : 2020-07-10 17:39:26.842866
+Drank water at : 2020-07-10 17:46:41.980412
